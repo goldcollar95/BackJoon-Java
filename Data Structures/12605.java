@@ -1,3 +1,4 @@
+//https://www.acmicpc.net/problem/12605
 import java.util.Scanner;
 
 public class Main {
